@@ -1,0 +1,33 @@
+*{
+    background-color: rgba(230, 197, 156, 0.533);
+}
+.red{
+    background-color: red;
+    width: 30px;
+    height: 30px;
+}
+.green{
+    background-color: green;
+    width: 30px;
+    height: 30px;
+}
+.white{
+    background-color: white;
+    width: 30px;
+    height: 30px;
+}
+.blue{
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+}
+.yellow{
+    background-color: yellow;
+    width: 30px;
+    height: 30px;
+}
+h1{
+    text-align: center;
+    color: rgb(51, 48, 5);
+
+}
